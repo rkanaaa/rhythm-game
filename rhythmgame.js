@@ -1,7 +1,7 @@
 // variables and objects and functions created for this
 
 function preload() {
-  img = loadImage('hit me hard and soft.jpeg');
+  img = loadImage('hit_me_hard_and_soft.jpeg');
   song = createAudio("Billie_Eilish_-_BIRDS_OF_A_FEATHER.mp3");
   wrong = createAudio("wronganswer.mp3");
 }
